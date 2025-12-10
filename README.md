@@ -1,2 +1,13 @@
-# Blockchain-Based-Supply-Chain-Finance-Using-Smart-Contracts-
-Core Idea of the Project  1. Use blockchain to manage supply chain and finance securely 2. Track products from manufacturer to retailer without manipulation 3. Automate finance approval using smart contracts instead of manual work
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.js
+```
